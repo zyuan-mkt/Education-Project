@@ -32,9 +32,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## DonorsChoose Dataset
+# DonorsChoose Dataset
 
-### School Distributuion
+## School Distributuion
 
 
 ![Continental](https://github.com/zyuan-mkt/Education-Project/blob/main/figures/distribution.png)
@@ -44,8 +44,49 @@
 
 
 
-### Project Description
-![grade](https://github.com/zyuan-mkt/Education-Project/blob/main/figures/grade_level.png)
+## Project Description
+### Variation by Year
+
+<table style="padding:10px">
+  <tr>
+    <td> <img src="https://github.com/zyuan-mkt/Education-Project/blob/main/figures/nume_year.png"  alt="1" width = 432px height = 288px ></td>
+    <td> <img src="https://github.com/zyuan-mkt/Education-Project/blob/main/figures/proj_price.png"  alt="1" width = 432px height = 288px ></td>
+  </tr>
+ 
+  
+</table>
+
+
+<table style="padding:10px">
+  
+  <tr>
+    <td> <img src="https://github.com/zyuan-mkt/Education-Project/blob/main/figures/grade_level.png"  alt="1" width = 432px height = 288px ></td>
+    <td> <img src="https://github.com/zyuan-mkt/Education-Project/blob/main/figures/pri_focus.png"  alt="1" width = 432px height = 288px ></td>
+  </tr>
+  
+    <tr>
+    <td> <img src="https://github.com/zyuan-mkt/Education-Project/blob/main/figures/res_typ.png"  alt="1" width = 576px height = 432px ></td>
+    <td> <img src="https://github.com/zyuan-mkt/Education-Project/blob/main/figures/pov_level.png"  alt="1" width = 576px height = 432px ></td>
+  </tr>
+ 
+  
+</table>
+
+
+<table style="padding:10px">
+ 
+    <tr>
+    <td> <img src="https://github.com/zyuan-mkt/Education-Project/blob/main/figures/pov_level_len.png"  alt="1" width = 432px height = 288px ></td>
+    <td> <img src="https://github.com/zyuan-mkt/Education-Project/blob/main/figures/foc_level_len.png"  alt="1" width = 432px height = 288px ></td>
+  </tr>
+  
+    <tr>
+    <td> <img src="https://github.com/zyuan-mkt/Education-Project/blob/main/figures/grd_level_len.png"  alt="1" width = 432px height = 288px ></td>
+    <td> <img src="https://github.com/zyuan-mkt/Education-Project/blob/main/figures/res_typ_len.png"  alt="1" width = 432px height = 288px ></td>
+  </tr>
+  
+</table>
+
 
 ### Built With
 
