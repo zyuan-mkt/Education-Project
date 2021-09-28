@@ -53,3 +53,12 @@
 ![Grade Level Lenghth](./figures/pre_grd_sent.png)
 ![Resource Type Length](./figures/pre_res_sent.png)
 
+### Variation in Writing
+
+![Grade Level](./figures/wri_grd.png)
+![Focus Level](./figures/wri_foc.png)
+![Resource Type](./figures/wri_res.png)
+![Metro Level](./figures/wri_met.png)
+![Poverty Level](./figures/pre_pov.png)
+![Teacher Prefix](./figures/wri_pre.png)
+
