@@ -47,53 +47,38 @@
 ## Project Description
 ### Variation by Year
 
-<table style="padding:10px">
-  <tr>
-    <td> <img src="https://github.com/zyuan-mkt/Education-Project/blob/main/figures/nume_year.png"  alt="1" width = 432px height = 288px ></td>
-    <td> <img src="https://github.com/zyuan-mkt/Education-Project/blob/main/figures/proj_price.png"  alt="1" width = 432px height = 288px ></td>
-  </tr>
- 
-  
-</table>
+![Year](./figures/num_year.png)
+![Price](./figures/proj_price.png)
+
+![Grade Level](./figures/grade_level.png)
+![Focus Level](./figures/pri_focus.png)
+![Resource Type](./figures/res_typ.png)
+![Metro Level](./figures/met_typ.png)
+![Poverty Level](./figures/pov_level.png)
+
+![Focus Level Length](./figures/foc_level_len.png)
+![Poverty Level Length](./figures/pov_level_len.png)
+![Metro Level Lenghth](./figures/met_level_len.png)
+![Grade Level Lenghth](./figures/grd_level_len.png)
+![Resource Type Length](./figures/res_typ_len.png)
 
 
-<table style="padding:10px">
-  
-  <tr>
-    <td> <img src="https://github.com/zyuan-mkt/Education-Project/blob/main/figures/grade_level.png"  alt="1" width = 432px height = 288px ></td>
-    <td> <img src="https://github.com/zyuan-mkt/Education-Project/blob/main/figures/pri_focus.png"  alt="1" width = 432px height = 288px ></td>
-  </tr>
-  
-    <tr>
-    <td> <img src="https://github.com/zyuan-mkt/Education-Project/blob/main/figures/res_typ.png"  alt="1" width = 576px height = 432px ></td>
-    <td> <img src="https://github.com/zyuan-mkt/Education-Project/blob/main/figures/pov_level.png"  alt="1" width = 576px height = 432px ></td>
-  </tr>
- 
-  
-</table>
+### Variation by Gender
 
+![Year](./figures/num_year.png)
+![Price](./figures/proj_price.png)
 
-<table style="padding:10px">
- 
-    <tr>
-    <td> <img src="https://github.com/zyuan-mkt/Education-Project/blob/main/figures/pov_level_len.png"  alt="1" width = 432px height = 288px ></td>
-    <td> <img src="https://github.com/zyuan-mkt/Education-Project/blob/main/figures/foc_level_len.png"  alt="1" width = 432px height = 288px ></td>
-  </tr>
-  
-    <tr>
-    <td> <img src="https://github.com/zyuan-mkt/Education-Project/blob/main/figures/grd_level_len.png"  alt="1" width = 432px height = 288px ></td>
-    <td> <img src="https://github.com/zyuan-mkt/Education-Project/blob/main/figures/res_typ_len.png"  alt="1" width = 432px height = 288px ></td>
-  </tr>
-  
-</table>
+![Grade Level](./figures/grade_level.png)
+![Focus Level](./figures/pri_focus.png)
+![Resource Type](./figures/res_typ.png)
+![Metro Level](./figures/met_typ.png)
+![Poverty Level](./figures/pov_level.png)
 
-
-### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+![Focus Level Length](./figures/foc_level_len.png)
+![Poverty Level Length](./figures/pov_level_len.png)
+![Metro Level Lenghth](./figures/met_level_len.png)
+![Grade Level Lenghth](./figures/grd_level_len.png)
+![Resource Type Length](./figures/res_typ_len.png)
 
 
 
