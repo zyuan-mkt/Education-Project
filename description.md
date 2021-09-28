@@ -59,6 +59,6 @@
 ![Focus Level](./figures/wri_foc.png)
 ![Resource Type](./figures/wri_res.png)
 ![Metro Level](./figures/wri_met.png)
-![Poverty Level](./figures/pre_pov.png)
+![Poverty Level](./figures/wri_pov.png)
 ![Teacher Prefix](./figures/wri_pre.png)
 
