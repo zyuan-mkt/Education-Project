@@ -63,5 +63,6 @@
 ![Teacher Prefix](./figures/wri_pre.png)
 
 ### Variation in Stanford Education Data
-
+![School Covariates](./figures/cor_sch.png)
+![Academic Achievements](./figures/cor_ach.png)
 
