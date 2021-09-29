@@ -62,3 +62,6 @@
 ![Poverty Level](./figures/wri_pov.png)
 ![Teacher Prefix](./figures/wri_pre.png)
 
+### Variation in Stanford Education Data
+
+
