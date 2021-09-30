@@ -11,7 +11,7 @@
 ## School Distributuion
 
 
-![Continental](https://github.com/zyuan-mkt/Education-Project/blob/main/figures/distribution.png)
+![Continental](https://github.com/zyuan-mkt/Education-Project/blob/main/figures/continental.png)
 ![Alaska](https://github.com/zyuan-mkt/Education-Project/blob/main/figures/HI.png)
 ![Hawaii](https://github.com/zyuan-mkt/Education-Project/blob/main/figures/AK.png)
 ![Hist](https://github.com/zyuan-mkt/Education-Project/blob/main/figures/school_distribution.png)
