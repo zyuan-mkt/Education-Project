@@ -30,7 +30,6 @@
 ![Poverty Level](./figures/pov_level.png)
 
 
-
 ### Variation by Teacher Prefix
 
 ![Year](./figures/gender.png)
@@ -39,6 +38,12 @@
 ![Focus Level](./figures/pre_focus.png)
 ![Resource Type](./figures/pre_res.png)
 ![Poverty Level](./figures/pre_pov.png)
+
+### Variation by Poverty Level
+![Grade Level](./figures/pov_grd.png)
+![Focus Level](./figures/pov_foc.png)
+![Resource Type](./figures/pov_res.png)
+
 ### Variation in Writing
 
 ![Grade Level](./figures/wri_grd.png)
@@ -68,8 +73,4 @@ Academic Achievements
 
 ![Academic Achievements](./figures/cor_ach.png)
 
-
-![Grade Level](./figures/pov_grd.png)
-![Focus Level](./figures/pov_foc.png)
-![Resource Type](./figures/pov_res.png)
 
