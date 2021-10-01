@@ -58,6 +58,7 @@ School Covariates
 * lep	proportion limited english proficient (CRDC) (2012, 2014, 2016, 2018 weighted average)	
 
 ![School Covariates](./figures/cor_sch.png)
+
 Academic Achievements
 * cs_mn_avg_ol	School Mean Ach, Math&RLA
 * cs_mn_coh_ol	School Cohort Slope of Mean Ach, Math&RLA
@@ -66,4 +67,9 @@ Academic Achievements
 
 
 ![Academic Achievements](./figures/cor_ach.png)
+
+
+![Grade Level](./figures/pov_grd.png)
+![Focus Level](./figures/pov_foc.png)
+![Resource Type](./figures/pov_res.png)
 
