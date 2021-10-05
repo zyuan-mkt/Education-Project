@@ -30,10 +30,15 @@
 ![Poverty Level](./figures/pov_level.png)
 
 
+### Variation by Covariate
+
+![Prefix](./figures/gender.png)
+![Poverty](./figures/poverty.png)
+![Resource](./figures/resource.png)
+![Focus](./figures/focus.png)
+![Grade](./figures/grade.png)
+
 ### Variation by Teacher Prefix
-
-![Year](./figures/gender.png)
-
 ![Grade Level](./figures/pre_grd.png)
 ![Focus Level](./figures/pre_focus.png)
 ![Resource Type](./figures/pre_res.png)
