@@ -1,5 +1,5 @@
 ## 2019 and 2020 crowdfunding essays
-
+![Number](./figures2/num.png)
 
 ### category
 'Arts': 'Art Supplies', 'Musical Instruments'
