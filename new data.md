@@ -1,24 +1,27 @@
 ## 2019 and 2020 crowdfunding essays
 
 
-### subject_category
-'Applied Sciences', 'Health & Wellness', 'ESL',
-'Financial Literacy', 'History & Geography',
-'Literature & Writing', 'Literacy', 'Environmental Science',
-'Mathematics', 'Social Emotional Learning', 'Music', 'Visual Arts',
-'Parent Involvement', 'Social Sciences', 'Gym & Fitness',
-'Team Sports', 'Other', 'College & Career Prep',
-'Early Development', 'Special Needs', 'Warmth, Care & Hunger',
-'Character Education', 'Foreign Languages', 'Community Service',
-'Economics', 'Extracurricular', 'Performing Arts',
-'Civics & Government', 'Nutrition Education',
-'Health & Life Science'
 ### category
-'Art Supplies', 'Food, Clothing & Hygiene',
-'Educational Kits & Games', 'Books', 'Virtual Trips',
-'Instructional Technology', 'Classroom Basics',
-'Reading Nooks, Desks & Storage', 'Computers & Tablets',
-'Virtual Visitors', 'Flexible Seating',
-'Sports & Exercise Equipment', 'Lab Equipment',
-'Musical Instruments', 'Other', 'Awaiting Classification',
-'Supplies', 'Technology'
+'Arts': 'Art Supplies', 'Musical Instruments'
+
+'Supplies': 'Supplies','Books', 'Lab Equipment','Classroom Basics', 'Awaiting Classification','Reading Nooks, Desks & Storage','Flexible Seating','Food, Clothing & Hygiene','Other'
+
+'Tech': 'Technology','Computers & Tablets','Instructional Technology'
+
+'Entertainment': 'Sports & Exercise Equipment','Educational Kits & Games'
+
+'Visits': 'Virtual Trips','Virtual Visitors'
+### subject_category
+'Science': 'Applied Sciences','Environmental Science','Mathematics','Health & Life Science'
+
+'Language': 'Financial Literacy','Literacy','Literature & Writing','Foreign Languages','ESL'
+
+'Social Sciences': 'History & Geography','Social Sciences', 'Economics', 'Civics & Government'
+
+'Health and Sports': 'Health & Wellness', 'Nutrition Education','Special Needs','Gym & Fitness','Team Sports'
+
+'Arts': 'Visual Arts','Music','Performing Arts'
+
+'Extracurricular': 'Parent Involvement', 'Extracurricular','Community Service','Warmth, Care & Hunger','Character Education','Early Development','College & Career Prep','Social Emotional Learning','Other'
+### grade_level
+"Grades PreK-2","Grades 3-5","Grades 6-8","Grades 9-12"
