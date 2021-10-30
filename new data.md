@@ -126,3 +126,62 @@ When delete "covid","covid19","covid-19","Covid","COVID","Covid-19","COVID19","C
 
 ['program-', 'bookcase', 'suitable', 'frustrate', 'turtle', 'rockets', 'brightly', 'equivalency', 'forests', 'baccalaureate', 'nearest', 'reteaching', 'twistable', 'betterment', 'graciously', 'heritages', 'frogs', 'depression', 'advertisements', 'decline', 'fragments', 'trees', 'helper', 'bear', 'highlighted', 'refreshed', 'earthquake', 'centrifuge', 'forest', 'furthering', '..', 'habitats', 'progresses', 'sheltering', 'smell', 'reclassified', 'unreal', 'sketchbooks', 'minis', 'bin', 'bowl', 'experimental', 'proximity', 'diversify', 'dinosaur', 'synchronously', 'pillars', 'castle', 'facilitators', 'wealthier', 'cars', 'expedition', 'advertising', 'littlest', 'curate', 'conjecture', 'asap', 'streams', 'emotional\u200b', 'insatiable', 'firsties', 'procedures', 'lamination', 'replenishes', 'spruce', 'spirits', 'graphs', 'viruses', 'communal', 'religions', 'brick', 'lake', 'relations', '27th', 'ancestry', 'steadfast', 'low-', 'masters', 'certified', 'gardens', 'to\u200b', 'impairment', 'console', 'trails', '12:1:1', 'ranching', 'marjority', 'income\u200b', 'iseeme', 'free\u200b', 'hokki', 'giftedness', 'unifix', 'kinesthetically', 'manuscript', 'pre-', 'kinders', 'bandaids', 'life\u200b', 'hands-']
 
+### Subsample Data - Category
+
+Entertainment (ent)
+
+`Test Loss: 0.569 | Test Acc: 72.49%`
+
+Rich
+
+['equivalency', 'commodities', '3rd', 'compliment', 'scripts', 'scribe', 'jigsaw', 'cubby', 'slap', 'thrives', 'asks', '2nd', 'tray', 'launcher', 'graphics', 'integrates', 'raining', 'string', 'adventure', 'beginner', '8th', 'sequencing', 'delivery', 'dominoes', 'cube', 'computational', 'imitation', 'expressively', 'wouldn', 'programmable', 'bookshelf', 'square', 'editing', 'fabric', '5th', 'winner', 'swivel', 'graphs', 'chunks', 'programmer', 'connectors', 'authentically', 'drawstring', 'investigative', 'ah', 'epic', 'analog', 'fits', 'tile', 'three‑quarters', 'symbolic', 'classical', 'bundles', 'reads', '7th', '6th', 'figurative', 'sequence', '4th', 'threw', 'scented', 'smartphone', '\u200band', 'washable', 'poems', 'weighted', 'storybook', 'gel', 'activating', 'bracelets', 'conductivity', 'canopy', 'reteach', 'personalize', 'compound', 'playdough', 'vests', 'cvc', 'students\u200b', 'sectional', 'kindergarten-5th', 'lemonade', 'knit', 'algebra', 'whiteboard', 'cereal', 'orally', 'inventor', 'chromebooks', 'receptively', 'script', 'lightweight', '-19', 'nook', 'students-', 'pinnies', 'ozobots', 'smartboard', 'alouds', '®']
+
+Poor
+
+['incomes', 'are\u200b', 'deficits', 'on\u200b', '3-', '2019/2020', 'kickballs', 'income', 'geoboard', 'uninterrupted', 'productivity', 'poverty', '%', 'northeast', 'makerspace', 'kinders', 'percentage', '123s', 'revenue', '2nd-5th', 'hourly', 'sanitation', 'lending', 'poorest', 'hunts', 'neediest', 'dependent', 'degrees', 'tissue', 'equality', 'cubelets', 'farming', 'accommodations', '$', 'township', 'outbreak', 'rate', 'refugee', 'rates', 'equity', 'honoring', '225', 'educates', 'perks', 'muscular', 'enrollment', 'underfunded', '..', 'disadvantaged', 'losses', 'socioeconomic', 'supporters', 'archaeologists', '90', 'low', 'population', 'households', 'percent', 'impoverished', 'castle', 'racial', 'erosion', '=', 'diagnosed', 'depleted', 'ons', 'palsy', 'hugged', 'elephant', 'explorative', 'cuties', 'spinner', 'camps', '86', '45', 'benefits', 'aids', 'lowincome', '12:1:1', 'families', 'uplift', 'hurricanes', '7-year', 'sparked', 'neighboring', 'kindergartens', 'rover', 'storms', 'steady', 'fund', 'withdrawals', 'dino', 'contributes', 'undergone', 'olds\u200b', 'bin', 'dry', 'continual', 'scavenger', 'dose']
+
+
+Tech (tech)
+
+`Test Loss: 0.499 | Test Acc: 76.58%`
+
+Rich
+
+['hardwiring', 'wonderings', 'musix', 'reusable', 'exceptionalities', 'important\u200b', 'screencast', 'convergent', 'dice', 'tangrams', 'reteaching', 'flipgrid', 'dialects', 'moveable', 'laminator', 'recorder', 'formatting', 'highlighters', 'ozobot', 'disseminated', 'abstract', 'asynchronous', 'unity', 'donorschoose.org', 'acrylic', 'percentile', 'genres', 'blank', 'starfall', 'videography', 'covid', 'decimals', 'synchronous', 'selphy', 'cookie', '-5th', 'smartboard', 'neon', 'five-', 'bluetooth', 'aligns', 'modalities', 'showcasing', 'protocols', 'wouldn', 'mics', 'algebra', 'subsystems', '-we', 'reset', 'makey', 'syllable', '.and', 'textures', 'seed', 'decodable', 'amplifier', 'ukulele', 'biomes', '9th-12th', 'docking', 'discrete', 'phonics', 'outs', 'diagram', 'gold', 'reflex', '2018', 'carries', 'console', 'motion', 'laser', 'rock', 'graph', 'grammatical', 'instills', 'divergent', 'arm', 'sharpener', 'inventions', 'formats', 'eventual', 'bells', 'sized', 'chord', 'laminating', 'twentieth', 'peaceful', 'playlists', 'visions', 'webquests', 'paced', 'unison', 'beginner', 'rendering', '1:1', '90th', 'whiteboard', 'lens', 'trial']
+
+Poor
+
+['populations', 'dependent', 'encountered', 'vulnerable', 'sore', 'survey', 'cups', 'ozobots', 'unnecessary', 'remainder', 'visited', 'percentage', 'reopen', 'depths', 'rates', 'monthly', '2020', 'price', 'housing', 'fears', 'touchpad', 'inquiries', 'drops', 'mild', 'promotion', 'projected', 'region', 'torn', '75', 'student-', 'classdojo', 'amidst', 'tons', 'suffered', 'uncomfortable', 'economic', 'portability', 'poor', 'homeless', 'mile', 'regroup', 'socialize', 'attainment', 'decrease', 'lower', 'burden', 'coronavirus', 'contagious', 'farming', 'threat', 'rural', 'fallen', 'restaurant', 'socioeconomic', 'north', 'households', 'low', 'wildlife', 'pockets', 'property', 'deficits', 'subsidized', 'rampant', 'incomes', 'insufficient', 'salary', 'infection', 'businesses', 'minimum', 'coats', 'sleeve', 'tuition', 'selfie', 'expenses', 'risen', 'firsties', 'lowest', 'average', 'dramatically', '84', 'pandemic', 'poverty', 'poorest', 'disadvantaged', '%', 'net', 'scarcity', 'quarantine', 'smoother', 'wealthier', 'refugees', 'income', 'nt', 'impoverished', 'neurotypical', 'ticket', 'underserved', '1.5', 'earnings', 'reteach']
+
+Supplies (sup)
+
+`Test Loss: 0.516 | Test Acc: 74.87%`
+
+Rich
+
+['2020/2021', 'working\u200b', '-and', 'well-', 'wonderings', 'four-', 'departmentalized', 'students-', '3-', 'programable', 'interdisciplinary', 'alouds', 'on\u200b', 'fundations', 'fluently', 'learning-', 'reteaching', 'interconnected', 'rigid', 'playdough', 'toe', 'tummies', 'them\u200b', 'empathetic', 'diagrams', 'toolkit', 'book-', 'graphs', 'mystery', 'dazzling', 'revising', 'viewers', 'teachable', 'ecomonic', 'laminate', 'dystopian', 'beginner', 'revise', 'lamination', 'external', '6th-8th', 'framework', 'pom', 'bonus', 'appreciative', 'mechanism', 'watercolor', 'littles', 'achievable', 'tone', 'quest', 'renovated', 'cursive', 'mature', 'afterschool', 'natures', 'drawers', 'sciences', 'sincere', 'seamlessly', 'removable', 'quizzes', 'captivating', 'seating', 'dolls', 'internship', 'expo', 'drawer', 'pictorial', 'enjoyable', 'changer', 'cherish', 'beautify', 'facilitator', 'deepen', 'illustrator', 'venture', 'journaling', 'constructive', 'geometric', 'strengthens', 'redesign', 'alphabet', 'rows', 'aide', 'adaptable', 'graph', 'curved', 'goofy', 'philosophy', 'redecorate', 'multiplication', 'joins', 'document', 'yay', 'disengaged', 'researched', 'bookshelf', 'cohesive', 'storytelling']
+
+Poor
+
+['soaking', 'rising', 'urban', '63', 'capital', 'profit', 'county', 'crops', 'reaches', 'price', 'tops', 'stakes', 'southeastern', 'lunch', 'erasable', 'lake', 'heavy', 'fallen', 'merchant', 'byes', 'groceries', 'temperature', 'syndrome', 'ton', 'rural', 'trapped', 'economic', 'grade\u200b', 'virus', 'vegetables', 'funds', 'foods', 'rescue', 'low', '94', 'mile', 'slid', 'waste', 'socioeconomic', 'achievers', 'diseases', 'male', 'kinders', 'aids', 'b', 'suburbs', 'bandits', 'alleviate', '..', 'aren', 'socio', 'percent', 'isolation', 'ranching', 'neglect', 'meat', 'fell', 'adjusted', 'homelessness', 'percentage', 'discount', 'uncomfortably', 'beds', 'wouldn', 'pollution', 'harsh', 'lion', 'lower', '1/3', 'cord', 'populations', 'underprivileged', 'wealth', 'corona', 'makerspace', 'suffering', 'quarantined', 'symptoms', 'accumulated', '%', '2/3', 'unproductive', 'crumbling', 'violent', 'insecurity', 'rainy', 'foothills', 'self-', 'epidemic', 'income\u200b', 'desert', 'income', 'poverty', 'paycheck', 'cohort', 'day\u200b', 'incomes', 'incidence', 'deficit', 'notetaking']
+
+
+Visits (vis)
+
+`Test Loss: 0.313 | Test Acc: 86.46%`
+
+Rich
+
+['gineers', 'students-', '\u200b', '\u200band', 'unifix', 'arsenal', '®', 'olds\u200b', 'bulb', 'that-', 'hyperactivity', 'curve', 'amazes', 'unstructured', '5-', 'division', 'kinders', 'augmentative', 'goggles', 'generational', 've', 'chromebooks', 'electives', 'nook', 'rotated', 'pipe', 'putty', 'proprioceptive', 'curricular', 'multiplication', 'stimulation', 'r', 'mechanical', 'cohesive', 'civilizations', 'tennis', 'matches', 'dirt', 'anti', 'assists', 'blast', 'holes', 'suburb', 'questioning', 'tac', 'flower', 'oh', 'folds', 'percentile', 'spheres', 'collections', 'glitter', 'amazement', 'bustling', 'slides', 'docs', 'cardio', 'rejoin', 'scaffold', 'cvc', 'fluorescent', 'recesses', 'comfy', 'cubes', 'homey', 'stressful', 'endings', 'volcano', 'tub', 'zest', 'her', '1:1', 'crash', 'littles', 'intriguing', 'decimal', 'dinosaur', 'appreciative', 'bubbles', 'cones', 'indoor', 'goodies', 'geometry', 'explosion', 'uncertainties', 'ethnically', 'brick', 'fridge', 'de', 'disorders', 'triumphant', '-', 'unpack', 'boundless', 'rug', 'magnifying', 'algebra', 'adaptable', 'smell', 'pretty']
+
+Poor
+
+['2021', 'disabled', 'sandwiches', 'attempt', 'tangram', 'restrictive', 'windows', 'incentives', 'forest', 'female', 'county', 'contains', 'articles', 'documents', 'qualify', 'quarantine', 'immensely', 'labels', 'accommodations', 'languages', 'coincide', 'tablets', 'certified', 'member', 'majority', 'don', 'poor', 'clicking', 'guidelines', 'president', 'curriculums', 'widely', 'permission', 'writers', 'noodles', 'certificate', 'inventors', 'negative', 'creators', '700', 'python', '+', 'washed', 'lifted', '2.0', 'significantly', 'containers', 'link', 'familiarize', 'nt', 'strengthens', 'economically', 'citizen', 'supplied', 'entice', 'virus', 'socio', 'educator', 'passages', 'thriving', 'framework', 'caddies', 'guarantee', 'population', 'households', 'refugees', 'alleviate', 'lightweight', 'apartments', 'coordinate', 'specials', 'geoboard', 'authors', 'ignite', 'canceled', 'prime', 'storybook', 'meals', 'retell', 'global', 'mainstream', 'ticket', 'income', 'decorate', 'rekenreks', 'uppercase', 'credit', '%', 'rocket', 'commute', 'coronavirus', 'pandemic', 'priced', 'folder', 'magnatiles', 'hyperdocs', 'playdough', 'lowercase', 'alouds', 'covid']
+
+Arts(art)
+
+
+
+### Subsample Data - Subject
+
+
