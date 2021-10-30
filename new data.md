@@ -40,9 +40,16 @@
 
 
 ### Subject and Category
+![SUBJECT](./figures2/yr_mon.png)
+
+![SUBJECT](./figures2/sub.png)
+![SUBJECT](./figures2/sub_yr.png)
 ![SUBJECT](./figures2/yr_sub2.png)
-![CATEGORY](./figures2/yr_cat2.png)
 ![SUBJECT](./figures2/yr_mon_sub.png)
+
+![CATEGORY](./figures2/cat.png)
+![CATEGORY](./figures2/cat_yr.png)
+![CATEGORY](./figures2/yr_cat2.png)
 ![CATEGORY](./figures2/yr_mon_cat.png)
 
 ### Poverty Level
