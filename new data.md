@@ -52,6 +52,13 @@
 ![CATEGORY](./figures2/yr_cat2.png)
 ![CATEGORY](./figures2/yr_mon_cat.png)
 
+## Structured
+![Regression 1](./figures2/reg1.png)
+![Regression 2](./figures2/reg2.png)
+![Regression 3](./figures2/reg3.png)
+![Regression 4](./figures2/reg4.png)
+
+## Unstructured
 ### Poverty Level
 `Test Loss: 0.508 | Test Acc: 75.02%`
 
