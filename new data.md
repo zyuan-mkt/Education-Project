@@ -53,11 +53,39 @@
 ![CATEGORY](./figures2/yr_mon_cat.png)
 
 ## Structured
+`lp ~ 1 + school_state + C(year) + C(month)`
+
+lp - log price
+
 ![Regression 1](./figures2/reg1.png)
+
+`lp ~ 1 + CATEGORY + SUBJECT + grade_level + school_percentage_free_and_reduced_price_lunch_eligible + C(year) + C(month)`
+
 ![Regression 2](./figures2/reg2.png)
+
+`lp ~ 1 + pca1 + pca2 + pca3 + pca4 + pca5 + pca6 + neg + pos`
+
+where PCAs are first six components of the extracted textfeatures; neg and pos are proportion of positive and negative words
+
 ![Regression 3](./figures2/reg3.png)
+
+`lp ~ 1 + CATEGORY + SUBJECT + grade_level + school_percentage_free_and_reduced_price_lunch_eligible + n_words + n_polite + ari + sent_vader + C(year) + C(month)`
+n_polite - number of polite words
+
+ari - Automated Readability Index (ARI)
+
+sent_vader - vader sentiment
+
 ![Regression 4](./figures2/reg4.png)
+
+`label ~ 1 + CATEGORY + SUBJECT + grade_level + n_words + n_polite + ari + sent_vader`
+
+label - 1 (high poverty), 0 (low poverty)
+
 ![Regression 3](./figures2/reg5.png)
+
+`label ~ 1 + pca1 + pca2 + pca3 + pca4 + pca5 + pca6 + neg + pos`
+
 ![Regression 4](./figures2/reg6.png)
 
 ## Unstructured
