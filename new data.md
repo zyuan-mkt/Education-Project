@@ -39,7 +39,9 @@
 ![2020](./figures2/grd_mon20.png)
 
 
-
+### Subject and Category
+![SUBJECT](./figures2/yr_mon_sub.png)
+![CATEGORY](./figures2/yr_mon_cat.png)
 
 ### Poverty Level
 `Test Loss: 0.508 | Test Acc: 75.02%`
