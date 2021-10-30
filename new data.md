@@ -57,6 +57,8 @@
 ![Regression 2](./figures2/reg2.png)
 ![Regression 3](./figures2/reg3.png)
 ![Regression 4](./figures2/reg4.png)
+![Regression 3](./figures2/reg5.png)
+![Regression 4](./figures2/reg6.png)
 
 ## Unstructured
 ### Poverty Level
