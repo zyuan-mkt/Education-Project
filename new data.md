@@ -40,6 +40,8 @@
 
 
 ### Subject and Category
+![SUBJECT](./figures2/yr_sub2.png)
+![CATEGORY](./figures2/yr_cat2.png)
 ![SUBJECT](./figures2/yr_mon_sub.png)
 ![CATEGORY](./figures2/yr_mon_cat.png)
 
