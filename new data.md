@@ -256,4 +256,26 @@ When delete "covid","covid19","covid-19","Covid","COVID","Covid-19","COVID19","C
 ['percent', '%', 'globes', 'households', 'districts', 'departmentalized', 'increases', 'grade\u200b', 'nearby', 'ethnic', '36', '360', 'sticks', 'overnight', 'county', '90', 'outlets', 'predominantly', 'miles', 'digitally', 'fundraiser', 'girl', 'interventions', '60', 'lower', 'hub', 'desk', 'cutter', 'income', 'enforce', 'electric', 'neighborhoods', 'tile', 'poverty', 'district', 'lock', 'laminators', 'attending', 'align', 'aims', 'sharpeners', 'southwestern', 'neighborhood', 'donations', 'enroll', 'cameras', 'universities', 'donating', 'affluent', 'crayons', 'provoke', 'cost', 'responsive', 'urban', 'refugees', 'buy', 'necessities', 'eyed', 'buildings', 'magnet', 'capitals', 'school', 'glue', 'headphone', 'posters', 'supplies', 'hallway', 'diversify', 'population', 'severe', 'suburb', 'household', 'outlet', 'dissidents', 'nations', 'modernize', 'attentive', 'endured', 'rural', 'hardships', 'located', '100', 'region', 'skin', 'units', 'economically', 'creators', '/', 'grateful', 'ports', '97', 'supply', 'interacting', 'supplying', '70', 'eligible', 'foods', 'stores', 'stations', 'cross']
 
 
+## New Materials
+
+![Category 1](./figures2/category_year.png)
+
+![Category 2](./figures2/category_year2.png)
+
+
+![Subject 1](./figures2/subject_year.png)
+
+![Subject 2](./figures2/subject_year2.png)
+
+
+![Category](./figures2/category_year_pov.png)
+![Category](./figures2/category_year_pov_day.png)
+![Category](./figures2/category_year_pov_pri.png)
+![Category](./figures2/category_year_pov_stu.png)
+
+
+![Subject](./figures2/subject_year_pov.png)
+![Subject](./figures2/subject_year_pov_day.png)
+![Subject](./figures2/subject_year_pov_pri.png)
+![Subject](./figures2/subject_year_pov_stu.png)
 
