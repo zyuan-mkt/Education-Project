@@ -267,15 +267,20 @@ When delete "covid","covid19","covid-19","Covid","COVID","Covid-19","COVID19","C
 
 ![Subject 2](./figures2/subject_year2.png)
 
-
+### Category
 ![Category](./figures2/category_year_pov.png)
 ![Category](./figures2/category_year_pov_day.png)
 ![Category](./figures2/category_year_pov_pri.png)
 ![Category](./figures2/category_year_pov_stu.png)
 
-
+### Subject
 ![Subject](./figures2/subject_year_pov.png)
 ![Subject](./figures2/subject_year_pov_day.png)
 ![Subject](./figures2/subject_year_pov_pri.png)
 ![Subject](./figures2/subject_year_pov_stu.png)
 
+### Grade
+![Grade Level](./figures2/grd_year_pov.png)
+![Grade Level](./figures2/grd_year_pov_day.png)
+![Grade Level](./figures2/grd_year_pov_pri.png)
+![Grade Level](./figures2/grd_year_pov_stu.png)
