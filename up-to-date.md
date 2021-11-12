@@ -24,6 +24,16 @@
 ![Grade Level](./figures2/grd_year_pov_pri.png)
 ![Grade Level](./figures2/grd_year_pov_stu.png)
 
+## Regressions (OLS and Logistic)
+![Price 1](./figures2/reg1.png)
+![Price 2](./figures2/reg2.png)
+![Days 1](./figures2/reg3.png)
+![Days 2](./figures2/reg4.png)
+![Students 1](./figures2/reg5.png)
+![Students 2](./figures2/reg6.png)
+
+![Label](./figures2/reg7.png)
+![Success](./figures2/reg8.png)
 
 ## Word Cloud
 
@@ -39,5 +49,7 @@
 ![Grade Level](./figures2/wc_rich_poor_arts.png)
 ![Grade Level](./figures2/wc_rich_poor_hel.png)
 ![Grade Level](./figures2/wc_rich_poor_soc.png)
+
+
 
 
